@@ -11,21 +11,22 @@ It is built using Java, Selenium WebDriver, TestNG, and Maven, and follows the P
 - **GitHub**
 
 ## Project Structure
-'''xml
+```
 project-root/
 │
 ├── base/
-│ └── BaseTest.java # Base setup for WebDriver and configuration
+│   └── BaseTest.java             # Base setup for WebDriver and configuration
 │
 ├── pages/
-│ └── LoginPage.java # Page Object Model class for login page
+│   └── LoginPage.java            # Page Object Model class for login page
 │
 ├── tests/
-│ └── LoginPageTests.java # TestNG test cases for login functionality
+│   └── LoginPageTests.java       # TestNG test cases for login functionality
 │
-├── testng.xml # TestNG suite configuration
-├── pom.xml # Maven dependencies and build setup
-'''
+├── testng.xml                    # TestNG suite configuration
+├── pom.xml                       # Maven dependencies and build setup
+└── README.md                     # Project documentation
+```
 
 ## Features Covered:
 
