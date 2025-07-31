@@ -11,6 +11,7 @@ It is built using Java, Selenium WebDriver, TestNG, and Maven, and follows the P
 - **GitHub**
 
 ## Project Structure
+'''xml
 project-root/
 │
 ├── base/
@@ -24,6 +25,7 @@ project-root/
 │
 ├── testng.xml # TestNG suite configuration
 ├── pom.xml # Maven dependencies and build setup
+'''
 
 ## Features Covered:
 
