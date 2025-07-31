@@ -46,5 +46,7 @@ project-root/
 
 ## 👤 Tested by:
 Niyojith S
+
 Trained in Manual & Automation Testing using Java
+
 Coimbatore, Tamil Nadu
